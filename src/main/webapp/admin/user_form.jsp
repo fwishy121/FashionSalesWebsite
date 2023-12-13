@@ -69,7 +69,7 @@
                     <div class="card-body">
                         <center class="mt-4"><img src="../assets/images/logo-store.jpg" class="img-circle"
                                                   width="150"/>
-                            <h4 class="card-title mt-2">Venus Shop</h4>
+                            <h4 class="card-title mt-2">Fishy Shop</h4>
                         </center>
                     </div>
                 </div>

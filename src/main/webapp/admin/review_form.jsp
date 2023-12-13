@@ -65,9 +65,9 @@
             <div class="col-lg-4 col-xlg-3 col-md-5">
                 <div class="card">
                     <div class="card-body">
-                        <center class="mt-4"><img src="../assets/shop/images/logo-store.jpg" class="img-circle"
+                        <center class="mt-4"><img src="../assets/shop/images/logo-store.png" class="img-circle"
                                                   width="150"/>
-                            <h4 class="card-title mt-2">Venus Shop</h4>
+                            <h4 class="card-title mt-2">Fishy Shop</h4>
                         </center>
                     </div>
                 </div>
