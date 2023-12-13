@@ -110,31 +110,4 @@
         <exception-type>javax.servlet.ServletException</exception-type>
         <location>/error?page=999</location>
     </error-page>
-
-    <!-- SMTP settings -->
-    <context-param>
-        <param-name>host</param-name>
-        <param-value>smtp.gmail.com</param-value>
-    </context-param>
-    <context-param>
-        <param-name>port</param-name>
-        <param-value>25</param-value>
-    </context-param>
-    <context-param>
-        <param-name>port</param-name>
-        <param-value>587</param-value>
-    </context-param>
-    <context-param>
-        <param-name>user</param-name>
-        <param-value>mrcheng253@gmail.com</param-value>
-    </context-param>
-    <context-param>
-        <param-name>pass</param-name>
-        <param-value>ptbczgoymwfgnrhz</param-value>
-    </context-param>
-
-    <context-param>
-        <param-name>recipient</param-name>
-        <param-value>20110294@student.hcmute.edu.vn</param-value>
-    </context-param>
 </web-app>
