@@ -45,13 +45,6 @@
                                     required="required" maxlength="32"/>
                             </div>
 
-                            <div class="form-group">
-                                <input type="checkbox" name="remember-me" id="remember-me"
-                                       class="agree-term"/> <label for="remember-me"
-                                                                   class="label-agree-term"><span><span></span></span>Remember
-                                me</label>
-                            </div>
-
                             <div class="form-group form-button">
                                 <input type="submit" name="signin" id="signin"
                                        class="form-submit" value="Log in"/>
@@ -63,7 +56,7 @@
 
                     <div class="signin-image">
                         <figure>
-                            <img src="shop/images/logo-store.jpg" alt="sing up image">
+                            <img src="shop/images/logo-store.png" alt="sing up image">
                         </figure>
                         <a href="register">Create an account</a>
                     </div>
